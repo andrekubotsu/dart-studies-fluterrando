@@ -10,3 +10,7 @@ I've attended this course in order too be able to work with Flutter at NLW#5 eve
 To help me remember:
 
 The Dart extension for VSCode is really interesting and helpful. The lesson "project structures" used a command: ctrl + shift + P : 'Dart:New Project'.
+
+======================
+
+It is completely free course: https://bit.ly/2Gr0TB0
